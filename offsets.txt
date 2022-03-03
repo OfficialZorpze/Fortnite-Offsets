@@ -1,1 +1,37 @@
+  Discord: Dyn#4218
 
+  UWorld 0xB973AA8
+  UObject 0xB6F3000
+  Free 0xB1EB28
+  WorldToScreen 0x7AED98C
+  GetNameByIndex 0xC97754
+  BoneArray 0x4B8
+  GetBoneWithRotation 0x1C0
+  CameraX 0x7E8
+  CameraY 0x12C
+  Zoom 0x580
+  
+  UGameInstance
+  UGameInstance::LocalPlayers: 0x38 [TArray<ULocalPlayer*>]
+  UGameInstance::OnlineSession: 0x48 [UOnlineSession*]
+  UGameInstance::ReferencedObjects: 0x50 [TArray<UObject*>]
+  UGameInstance::OnPawnControllerChangedDelegates: 0x78 [FMulticastInlineDelegate]
+  
+  UActorComponent
+  UActorComponent::PrimaryComponentTick: 0x30 [FActorComponentTickFunction]
+  UActorComponent::ComponentTags: 0x60 [TArray<FName>]
+  UActorComponent::AssetUserData: 0x70 [TArray<UAssetUserData*>]
+  UActorComponent::UCSSerializationIndex: 0x84 [int32_t]
+  UActorComponent::bNetAddressable: 0x88 [char]
+  UActorComponent::bReplicates: 0x88 [char]
+  UActorComponent::bAutoActivate: 0x89 [char]
+  UActorComponent::bIsActive: 0x8a [char]
+  UActorComponent::bEditableWhenInherited: 0x8a [char]
+  UActorComponent::bIsEditorOnly: 0x8a [char]
+  UActorComponent::CreationMethod: 0x8c [EComponentCreationMethod]
+  UActorComponent::OnComponentActivate: 0x8d [FMulticastSparseDelegate]
+  UActorComponent::OnComponentDeactivated: 0x8e [FMulticastSparseDelegate]
+  UActorComponent::UCSModifiedProperties: 0x90 [TArray<FSimpleMemberReference>]
+  
+  AActor
+  AActor::PrimaryActorTick 0x28 [FActorTickFunction]
